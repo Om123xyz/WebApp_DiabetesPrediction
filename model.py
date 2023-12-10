@@ -2,7 +2,7 @@
 import sys !{sys.executable} -m pip install xgboost
 import numpy as np
 import pandas as pd
-import pickle
+import pickle5 as pickle
 from sklearn.metrics import accuracy_score
 
 import numpy as np
