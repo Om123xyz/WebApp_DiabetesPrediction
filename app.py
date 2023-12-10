@@ -1,6 +1,6 @@
 import streamlit as st
 import numpy as np
-import pickle
+import pickle5 as pickle
 
 # pickle_in = open('Diabetes.pkl', 'rb')
 pickle_in = open('diabetes-prediction-rfc-model.pkl', 'rb')
