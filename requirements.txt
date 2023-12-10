@@ -5,7 +5,8 @@ pickle5
 python-dotenv
 gensim
 torch
-sklearn
+pip install scikit-learn
+scikit-learn
 nltk
 matplotlib
 bs4
