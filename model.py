@@ -1,4 +1,5 @@
 # Importing essential libraries
+import sys !{sys.executable} -m pip install xgboost
 import numpy as np
 import pandas as pd
 import pickle5 as pickle
