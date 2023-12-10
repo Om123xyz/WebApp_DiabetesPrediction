@@ -91,7 +91,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 🤝 Contact
 
-
-Your Name - @twitter_handle - 2040020@sliet.ac.in
-
-Project Link: https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App.git
+Project Link: https://webappdiabetesprediction-4evzguq48xdhlkdsnsmxzj.streamlit.app/
