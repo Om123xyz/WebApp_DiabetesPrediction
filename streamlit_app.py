@@ -9,8 +9,8 @@ classifier = pickle.load(pickle_in)
 pickle_in = open('diabetes-prediction-rfc-model2.pkl', 'rb')
 classifier2 = pickle.load(pickle_in)
 
-pickle_in = open('diabetes-prediction-rfc-model3.pkl', 'rb')
-classifier3 = pickle.load(pickle_in)
+# pickle_in = open('diabetes-prediction-rfc-model3.pkl', 'rb')
+# classifier3 = pickle.load(pickle_in)
 
 pickle_in = open('diabetes-prediction-rfc-model4.pkl', 'rb')
 classifier4 = pickle.load(pickle_in)
