@@ -58,7 +58,6 @@ torchvision==0.10.1
 ⚙️ Installation
 Clone the repository and install the required dependencies using the following commands:
 
-git clone https://github.com/Priyanshu88/Diabetes-Prediction-Streamlit-App.git
 cd Diabetes-Prediction-Streamlit-App
 pip install -r requirements.txt
 streamlit run app.py
