@@ -6,7 +6,6 @@ python-dotenv
 gensim
 torch
 scikit-learn
-scikit-learn
 nltk
 matplotlib
 bs4
